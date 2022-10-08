@@ -1,6 +1,6 @@
 # Google books search
 This is pet project for testing useSearchParams hook (and some more)
-Is available on gh-pages (http://itbali.github.io/google-book-search)
+Is available on gh-pages (http://metalheadpnz.github.io/google-book-search)
 
 ## Available functions
 
