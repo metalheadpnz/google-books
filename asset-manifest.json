@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/google-book-search/static/css/main.35fcecf6.css",
-    "main.js": "/google-book-search/static/js/main.e2fd8efc.js",
-    "static/js/787.ddd82874.chunk.js": "/google-book-search/static/js/787.ddd82874.chunk.js",
-    "index.html": "/google-book-search/index.html",
-    "main.35fcecf6.css.map": "/google-book-search/static/css/main.35fcecf6.css.map",
-    "main.e2fd8efc.js.map": "/google-book-search/static/js/main.e2fd8efc.js.map",
-    "787.ddd82874.chunk.js.map": "/google-book-search/static/js/787.ddd82874.chunk.js.map"
+    "main.css": "/google-books/static/css/main.35fcecf6.css",
+    "main.js": "/google-books/static/js/main.9b1b4618.js",
+    "static/js/787.ddd82874.chunk.js": "/google-books/static/js/787.ddd82874.chunk.js",
+    "index.html": "/google-books/index.html",
+    "main.35fcecf6.css.map": "/google-books/static/css/main.35fcecf6.css.map",
+    "main.9b1b4618.js.map": "/google-books/static/js/main.9b1b4618.js.map",
+    "787.ddd82874.chunk.js.map": "/google-books/static/js/787.ddd82874.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35fcecf6.css",
-    "static/js/main.e2fd8efc.js"
+    "static/js/main.9b1b4618.js"
   ]
 }
